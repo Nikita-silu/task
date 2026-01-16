@@ -230,3 +230,4 @@ Authorization: Bearer <JWT_TOKEN>
 
 ## Conclusion
 This project demonstrates full-stack development skills with a strong focus on frontend engineering, secure authentication, API integration, and scalable application structure.
+
